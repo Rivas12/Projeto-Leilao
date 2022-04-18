@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+    color: white;
+}
+a {
+    text-decoration: none !important;
+    color: white !important;
+}
+body {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://images.idgesg.net/images/article/2020/01/cso_court_gavel_money_financial_penalty_penalties_corruption_by_avnphotolab_gettyimages-494312914_binary_by_ivanastar_gettyimages-901412996_2400x1600-100828451-large.jpg?auto=webp&quality=85,70");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#form-login{
+    padding-top: 40px;
+    margin: auto;
+    width: 30%;
+}
+.aumentar-letra {
+    font-size: 20px;
+}
+
+h1 {
+    padding-top: 60px;
+}

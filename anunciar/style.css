@@ -1,0 +1,42 @@
+* {
+    text-align: center;
+    color: white;
+}
+li a{
+    font-size: 20px !important;
+    text-decoration: none !important;
+    color: white !important;
+}
+body {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://i.pinimg.com/originals/9f/2e/e6/9f2ee60cc592305f22bf2346848e06f6.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.nav{
+    padding: 10px 0;
+}
+#anunciar {
+    background: orange;
+    text-align: right;
+    border-radius: 50px;
+    margin: 0 5px;
+}
+#entrar {
+    background: green;
+    border-radius: 50px;
+    text-align: right;
+    margin: 0 5px;
+}
+.row {
+    padding-top: 30px;
+}
+.card {
+    padding: 0 5px;
+    margin: 0 10px;
+}
+.card img{
+    padding-top: 5px;
+}
+form {
+    margin: 0 auto;
+}
